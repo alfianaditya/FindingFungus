@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 411093572081db84ab9c0d3d3ad93b40, type: 3}
+  m_Name: CVial
+  m_EditorClassIdentifier: 
+  requiredJamur:
+    Item: {fileID: 11400000, guid: 8781a111093723149a65709df1223f6d, type: 2}
+    Amount: 2
+  requiredInti:
+    Item: {fileID: 11400000, guid: 042f9bf1bc53d7b4db846af34910d853, type: 2}
+    Amount: 1
+  dataRamuan: {fileID: 11400000, guid: f3f7096ccaafd8b43b90e94f6aab06cb, type: 2}
+  makePrice: 5
+  quantity: 1

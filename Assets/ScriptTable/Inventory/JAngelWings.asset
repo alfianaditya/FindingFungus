@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756e3c4dedc52647bd366bec7dbca4a, type: 3}
+  m_Name: JAngelWings
+  m_EditorClassIdentifier: 
+  kode_jamur: 6
+  nama_jamur: Angel Wings
+  binomial: Pleurocybella porrigens
+  kingdom: Fungi
+  genus: Pleurocybella
+  famili: Phyllotopsidaceae
+  kelas: 'Agaricomycetes '
+  ordo: Agaricales
+  spesies: P. porrigens
+  jenis: Non-Edible
+  tentang_jamur: "Tudung jamur Angel Wings berdiameter 1,5 hingga 10 cm dengan bentuk
+    seperti vas yang terbuka di satu sisinya dan bergelombang. Selain itu, tudungnya
+    berwarna putih hingga gading, berdaging tipis, serta tembus cahaya. Permukaan
+    tudungnya halus dan lentur. Ketika tudungnya tumbuh melebar ke samping, jamur
+    ini terlihat seperti sayap malaikat.\r"
+  overview_jamur: "Ada beberapa kasus langka di mana jamur ini diketahui mengandung
+    senyawa beracun yang dapat menyebabkan gejala keracunan pada beberapa orang.\r"
+  jumlah_jamur: 0
+  gambar_2d: {fileID: 21300000, guid: 974286dd96baac44aab0e80c54bc4315, type: 3}
+  gambar_3d: {fileID: 21300000, guid: a016ea68dab08d14b9e4f49704d2e07f, type: 3}

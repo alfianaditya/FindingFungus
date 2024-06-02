@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756e3c4dedc52647bd366bec7dbca4a, type: 3}
+  m_Name: JMerang
+  m_EditorClassIdentifier: 
+  kode_jamur: 3
+  nama_jamur: Jamur Merang
+  binomial: Volvariella volvacea
+  kingdom: Fungi
+  genus: Volvariella
+  famili: Pluteaceae
+  kelas: Homobasidiomycetes
+  ordo: Agaricales
+  spesies: V. volvacea
+  jenis: Edible
+  tentang_jamur: Jamur merang atau Volvariella volvaceae L. merupakan jamur kompos
+    yang banyak digemari masyarakat. Salah satu kandungan nutrisi di dalamnya adalah
+    protein yang baik untuk dikonsumsi manusia. Jamur merang juga banyak menyimpan
+    vitamin, seperti riboflamin, tiamin, dan asam nikotin yang cukup tinggi. Zat
+    kalsium dan fosrfor yang tinggi ditambah kalori dan kolestrol yang rendah membuat
+    jamur merang sering dikonsumsi untuk menu diet.
+  overview_jamur: Jamur merang memiliki tekstur yang renyah dan rasa yang lezat,
+    dengan aroma yang khas  juga memiliki nilai nutrisi yang baik.
+  jumlah_jamur: 0
+  gambar_2d: {fileID: 21300000, guid: 2ba08557d5ecf8f4984b53dd74715a59, type: 3}
+  gambar_3d: {fileID: 21300000, guid: 9f1fcc696cf65844f96fe2dfca85458d, type: 3}

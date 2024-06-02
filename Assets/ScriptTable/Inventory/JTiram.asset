@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756e3c4dedc52647bd366bec7dbca4a, type: 3}
+  m_Name: JTiram
+  m_EditorClassIdentifier: 
+  kode_jamur: 1
+  nama_jamur: 'Jamur Tiram '
+  binomial: Pleurotus ostreatus
+  kingdom: Fungi
+  genus: Pleurotus
+  famili: Pleurotaceae
+  kelas: 'Agaricomycetes '
+  ordo: Agaricales
+  spesies: 'P. ostreatus '
+  jenis: Edible
+  tentang_jamur: "Jamur Tiram atau Tiram Putih (Pleurotus ostreatus) adalah sejenis
+    jamur pangan yang paling laku dan banyak masyarakat buru sebagai bahan masakan.
+    Kandungan gizinya tidak main-main, jamur ini kaya akan protein dan juga mineral.
+    Selain itu, ia juga menyimpan sejumlah vitamin bermanfaat seperti tiamin, riboflavin,
+    niasin, biotin, serta vitamin C.\r"
+  overview_jamur: "Jamur Tiram memiliki rasa yang lezat dan sebagai sumber protein,
+    serat, vitamin B, mineral, dan antioksidan.\r"
+  jumlah_jamur: 0
+  gambar_2d: {fileID: 21300000, guid: 3016fb1917a83e341bb927ef2756118a, type: 3}
+  gambar_3d: {fileID: 21300000, guid: 0152448360b8db34c9b860fdcd699570, type: 3}

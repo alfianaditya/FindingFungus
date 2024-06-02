@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756e3c4dedc52647bd366bec7dbca4a, type: 3}
+  m_Name: JDestroyingAngel
+  m_EditorClassIdentifier: 
+  kode_jamur: 5
+  nama_jamur: Destroying Angel
+  binomial: Amanita virosa
+  kingdom: Fungi
+  genus: Amanita
+  famili: Amanitaceae
+  kelas: 'Agaricomycetes '
+  ordo: Agaricales
+  spesies: A. virosa
+  jenis: Non-Edible
+  tentang_jamur: Beberapa racun yang ada dalam genus Amanita adalah amatoksin, falotoksin,
+    dan virotoksin. Jamur A. virosa mengandung racun amatoksin dan virotoksin. Racun
+    amatoksin menyebabkan gangguan pencernaan dengan gejala-gejala seperti diare,
+    mual dan sakit perut yang muncul dalam waktu lima hingga dua belas jam.
+  overview_jamur: "Mengandung racun yang sangat kuat, jamur ini yang dapat merusak
+    hati dan ginjal, dan dapat menyebabkan kegagalan organ serta kematian.\r"
+  jumlah_jamur: 0
+  gambar_2d: {fileID: 21300000, guid: 014d8b7b160e3d541ae188cfec750a36, type: 3}
+  gambar_3d: {fileID: 21300000, guid: 15bcb88d5b3232247beaf47d24699d37, type: 3}

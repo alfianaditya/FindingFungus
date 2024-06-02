@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756e3c4dedc52647bd366bec7dbca4a, type: 3}
+  m_Name: JKuping
+  m_EditorClassIdentifier: 
+  kode_jamur: 4
+  nama_jamur: Jamur Kuping
+  binomial: Auricularia auricula-judae
+  kingdom: Fungi
+  genus: Auricularia
+  famili: Auriculariaceae
+  kelas: 'Agaricomycetes '
+  ordo: Auriculariales
+  spesies: A. auricula-judae
+  jenis: Edible
+  tentang_jamur: "Seperti namanya, tampilan jamur kuping merah memang mirip seperti
+    telinga manusia. Jenis vitamin yang terkandung dalam jamur kuping merah antara
+    lain seperti vitamin B1, vitamin B2, vitamin B3, vitamin B6, vitamin B12, vitamin
+    B9 atau asam folat, dan vitamin C.Sedangkan kandungan mineral yang terdapat pada
+    badan buah jamur merah ialah kalsium, zat besi, magnesium, fosfor, kalium, sodium,
+    hingga zinc.\r"
+  overview_jamur: "Jamur kuping tumbuh di pohon kayu. Mereka sering ditemukan di
+    Asia, termasuk Tiongkok, Jepang, dan Indonesia.\r"
+  jumlah_jamur: 0
+  gambar_2d: {fileID: 21300000, guid: f555346f16d0a2349bdc37157013adb7, type: 3}
+  gambar_3d: {fileID: 21300000, guid: 6d29b6c9a94390a458a82644150a463e, type: 3}

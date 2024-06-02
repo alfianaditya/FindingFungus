@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 880dc33bcf7d24f499aa7511bfa78e6e, type: 3}
+  m_Name: RVial
+  m_EditorClassIdentifier: 
+  kode_ramuan: 1
+  nama_ramuan: Ramuan Vial
+  overview_ramuan: "Ramuan Vial merupakan ramuan yang digunakan untuk menambah HP.\r"
+  jumlah_ramuan: 0
+  tambah_mana: 0
+  tambah_hp: 15
+  text_status_ramuan: + 15 HP
+  gambar_2d: {fileID: 21300000, guid: 815cf27ff1e76354bb2d38bfcb32bfea, type: 3}
+  heal_amount: 0

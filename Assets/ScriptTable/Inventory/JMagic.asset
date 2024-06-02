@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3756e3c4dedc52647bd366bec7dbca4a, type: 3}
+  m_Name: JMagic
+  m_EditorClassIdentifier: 
+  kode_jamur: 8
+  nama_jamur: Magic Mushroom
+  binomial: Psilocybe cubensis
+  kingdom: Fungi
+  genus: Psilocybe
+  famili: Hymenogastraceae
+  kelas: 'Agaricomycetes '
+  ordo: Agaricales
+  spesies: P. cubensis
+  jenis: Non-Edible
+  tentang_jamur: Psilocybe cubensis ditemukan pada kotoran sapi (dan terkadang kuda),
+    mulsa tebu atau tanah padang rumput yang subur, dengan jamur muncul dari Februari
+    hingga Desember di belahan bumi utara, dan November hingga April di belahan bumi
+    selatan. Di Asia, spesies ini tumbuh di atas kotoran kerbau.
+  overview_jamur: Jamur ini mengandung senyawa psikoaktif yang memiliki efek psikedelik
+    yang dapat memengaruhi pikiran, persepsi, dan suasana hati penggunanya.
+  jumlah_jamur: 0
+  gambar_2d: {fileID: 21300000, guid: 4eb09aa347c2ce14eb108600983517e0, type: 3}
+  gambar_3d: {fileID: 21300000, guid: 51cce50184ec5e448a465e266fd8fc11, type: 3}
